@@ -7,4 +7,23 @@ origional documentation for JS is "tc39.es" ECMA Script
 
 */
 
-Let
+let name = "Ahsan"
+let age = 35
+let isLoggedIn = false
+let state;
+// let state = null
+
+// number => 2 to the power of 53
+// bigint
+//string => ""
+//boolean => true/false
+// null => stand alone value
+// undefined => 
+// symbol => unique
+
+
+// object
+
+console.log(typeof age);
+console.log(typeof nul)
+console.log(typeof undefined)
